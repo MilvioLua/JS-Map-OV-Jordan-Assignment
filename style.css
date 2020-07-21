@@ -8,3 +8,22 @@ html,
 body {
   height: 100%;
 }
+
+.carrer {
+  color: red;
+  font-weight: bold;
+}
+
+
+.major {
+  color: green;
+  font-weight: bold;
+}
+
+.location{
+font-weight: bold;
+}
+
+.duties{
+font-weight: bold;
+}
