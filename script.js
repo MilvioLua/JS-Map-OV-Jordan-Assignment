@@ -66,6 +66,7 @@ function initMap(){
       "</div>"
     },
 
+
     {
       coords:{lat:10.762622,lng:106.660172},
       iconImage:'img/Hanh.png',
